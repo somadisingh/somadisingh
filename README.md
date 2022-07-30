@@ -2,7 +2,7 @@
  <img src = "https://ksr-ugc.imgix.net/assets/001/035/917/16ece0d1796ecc1ff4c0605b0a7dd96a_original.gif?ixlib=rb-4.0.2&w=680&fit=max&v=1381431769&gif-q=50&q=92&s=1114f7941a0a556074ebaeb4bd277f8e"/>
 </p>
 <h1 align="center">Hey 👋, I'm Somaditya</h1>
-<h3 align="center">A Developer, an Entrepreneur & a Ruminative from New Delhi, India</h3>
+<h3 align="center">Developer and Entrepreneur from New Delhi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somadisingh&label=profile%20views&color=f95353&style=flat" alt="somadisingh" /> </p>
 
