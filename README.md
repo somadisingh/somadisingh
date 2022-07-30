@@ -42,6 +42,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somadisingh&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="somadisingh" /></p>
 
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somadisingh&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="somadisingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somadisingh&theme=dark" alt="somadisingh" /></p>
