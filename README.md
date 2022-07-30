@@ -10,23 +10,16 @@
 
 <p align="left"> <a href="https://twitter.com/macrodalal" target="blank"><img src="https://img.shields.io/twitter/follow/macrodalal?logo=twitter&style=for-the-badge" alt="macrodalal" /></a> </p>
 
-- 🔭 I’m currently working on [My Programming Skills](https://github.com/somadisingh/DSA_solved)
-
-- 🌱 I’m currently learning **Typescript, DSA, Hardhat, Drizzle**
-
-- 👯 I’m looking to collaborate on [Anything Web3](https://github.com/somadisingh/Web3)
-
-- 🤝 I’m looking for help with [A dark mode bug](https://github.com/somadisingh/MLH-Portfolio)
-
-- 📝 I regularly write articles on [https://medium.com/@somadityasingh](https://medium.com/@somadityasingh)
-
-- 💬 Ask me about **Blockchain, Front End**
-
-- 📫 How to reach me **btech10001.19@bitmesra.ac.in**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nhUplXOgFfiJQvmDOVmMe2lU0FpEDBPG/view?usp=sharing](https://drive.google.com/file/d/1nhUplXOgFfiJQvmDOVmMe2lU0FpEDBPG/view?usp=sharing)
-
-- ⚡ Fun fact **Getting paid to sleep would be my dream job.**
+- 🔭 Currently I'm working on **my programming skills🖥️**
+- 🌱 I hold the potential to learn: **anything & everything 🤣**
+- 👯 I can collaborate with: **developers of all kinds** 
+- 🎯 2022 Goal: Contribute to **more projects** 
+- 🤝 I’m looking for help with **my web3 skills**
+- 📝 My articles can be found here: [📜](https://medium.com/@somadityasingh)
+- 💬 Ask me about: **Web3, Front End, Finance, Economics & Anime**
+- 📫 How to reach me: **btech10001.19@bitmesra.ac.in**
+- 📄 Know about my experiences: [📝](https://drive.google.com/file/d/1nhUplXOgFfiJQvmDOVmMe2lU0FpEDBPG/view?usp=sharing)
+- ⚡ Fun fact: **Getting paid to sleep would be my dream job.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
