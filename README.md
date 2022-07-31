@@ -11,14 +11,14 @@
 <p align="left"> <a href="https://twitter.com/macrodalal" target="blank"><img src="https://img.shields.io/twitter/follow/macrodalal?logo=twitter&style=for-the-badge" alt="macrodalal" /></a> </p>
 
 - 🔭 Currently I'm working on **my programming skills🖥️**
-- 🌱 I hold the potential to learn: **anything & everything 🤣**
-- 👯 I can collaborate with: **developers of all kinds** 
+- 🌱 I have the potential to learn **anything & everything 🧑‍🎓**
+- 👯 I can collaborate with **developers from around the globe** 
 - 🎯 2022 Goal: Contribute to **more projects** 
 - 🤝 I’m looking for help with **my web3 skills**
 - 📝 My articles can be found here: [📜](https://medium.com/@somadityasingh)
-- 💬 Ask me about: **Web3, Front End, Finance, Economics & Anime**
-- 📫 How to reach me: **btech10001.19@bitmesra.ac.in**
-- 📄 Know about my experiences: [📝](https://drive.google.com/file/d/1nhUplXOgFfiJQvmDOVmMe2lU0FpEDBPG/view?usp=sharing)
+- 💬 Ask me about **Web3, Front End, Finance, Economics & Anime**
+- 📫 Wanna work together? Shoot me an [📧](btech10001.19@bitmesra.ac.in)
+- 📄 Know about my experiences [📝](https://drive.google.com/file/d/1nhUplXOgFfiJQvmDOVmMe2lU0FpEDBPG/view?usp=sharing)
 - ⚡ Fun fact: **Getting paid to sleep would be my dream job.**
 
 <h3 align="left">Connect with me:</h3>
