@@ -13,11 +13,11 @@
 - 🔭 Currently I'm working on **my programming skills🖥️**
 - 🌱 I have the potential to learn **anything & everything 🧑‍🎓**
 - 👯 I can collaborate with **developers from around the globe** 
-- 🎯 2022 Goal: Contribute to **more projects** 
+- 🎯 2022 Goal: Contribute to **work on more projects using different tech stacks** 
 - 🤝 I’m looking for help with **my web3 skills**
 - 📝 My articles can be found here: [📜](https://medium.com/@somadityasingh)
 - 💬 Ask me about **Web3, Front End, Finance, Economics & Anime**
-- 📫 Wanna work together? Shoot me an [📧](btech10001.19@bitmesra.ac.in)
+- 📫 Wanna work together? Shoot me an [📧](Oops! My bad! Email me on btech10001.19@bitmesra.ac.in)
 - 📄 Know about my experiences [📝](https://drive.google.com/file/d/1nhUplXOgFfiJQvmDOVmMe2lU0FpEDBPG/view?usp=sharing)
 - ⚡ Fun fact: **Getting paid to sleep would be my dream job.**
 
