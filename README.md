@@ -19,7 +19,7 @@
 - 💬 Ask me about **Computer Vision, Java Springboot, Web3, Front End, Finance, Economics & Anime**
 - 📫 Wanna work together? Shoot me an [📧](btech10001.19@bitmesra.ac.in)
 - 📄 Know about my experiences [📝](https://drive.google.com/file/d/1nhUplXOgFfiJQvmDOVmMe2lU0FpEDBPG/view?usp=sharing)
-- ⚡ Fun fact: **SWE is the combination of an architect and a builder. We are not "programmers"**
+- ⚡ Fun fact: **SWE is the combination of an architect and a builder. We are not just "programmers"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
