@@ -10,16 +10,16 @@
 
 <p align="left"> <a href="https://twitter.com/macrodalal" target="blank"><img src="https://img.shields.io/twitter/follow/macrodalal?logo=twitter&style=for-the-badge" alt="macrodalal" /></a> </p>
 
-- 🔭 Currently I'm working on **my programming skills🖥️**
+- 🔭 Currently I'm working on **my designing and programming skills🖥️**
 - 🌱 I have the potential to learn **anything & everything 🧑‍🎓**
 - 👯 I can collaborate with **developers from around the globe** 
-- 🎯 2022 Goal: Contribute to **work on more projects using different tech stacks** 
-- 🤝 I’m looking for help with **my web3 skills**
+- 🎯 2023 Goal: Contribute to **work on more projects focused on backend** 
+- 🤝 I’m looking for help with **my java skills**
 - 📝 My articles can be found here: [📜](https://medium.com/@somadityasingh)
-- 💬 Ask me about **Web3, Front End, Finance, Economics & Anime**
+- 💬 Ask me about **Computer Vision, Java Springboot, Web3, Front End, Finance, Economics & Anime**
 - 📫 Wanna work together? Shoot me an [📧](btech10001.19@bitmesra.ac.in)
 - 📄 Know about my experiences [📝](https://drive.google.com/file/d/1nhUplXOgFfiJQvmDOVmMe2lU0FpEDBPG/view?usp=sharing)
-- ⚡ Fun fact: **Getting paid to sleep would be my dream job.**
+- ⚡ Fun fact: **SWE is the combination of an architect and a builder. We are not "programmers"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
