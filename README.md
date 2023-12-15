@@ -14,11 +14,11 @@
 - 🌱 I have the potential to learn **anything & everything 🧑‍🎓**
 - 👯 I can collaborate with **developers from around the globe** 
 - 🎯 2023 Goal: Contribute to **work on more projects focused on backend** 
-- 🤝 I’m looking for help with **my java skills**
+- 🤝 I’m looking for help with **my Java skills**
 - 📝 My articles can be found here: [📜](https://medium.com/@somadityasingh)
 - 💬 Ask me about **Computer Vision, Java Springboot, Web3, Front End, Finance, Economics & Anime**
-- 📫 Wanna work together? Shoot me an [📧](btech10001.19@bitmesra.ac.in)
-- 📄 Know about my experiences [📝](https://drive.google.com/file/d/1nhUplXOgFfiJQvmDOVmMe2lU0FpEDBPG/view?usp=sharing)
+- 📫 Wanna work together? Shoot me an [📧](somadisingh13@gmail.com)
+- 📄 Know about my experiences [📝](https://drive.google.com/file/d/1HRq57V-QIygDZ8MCTd1WEEJ8zKW7P--l/view?usp=sharing)
 - ⚡ Fun fact: **SWE is the combination of an architect and a builder. We are not just "programmers"**
 
 <h3 align="left">Connect with me:</h3>
