@@ -13,7 +13,7 @@
 - 🔭 Currently I'm working on **my designing and programming skills🖥️**
 - 🌱 I have the potential to learn **anything & everything 🧑‍🎓**
 - 👯 I can collaborate with **developers from around the globe** 
-- 🎯 2024 Goal: Contribute to **work on competitive programming skills and build atleast 1 machine learning project** 
+- 🎯 2025 Goal: Contribute to **work on programming skills and build atleast 1 machine learning project** 
 - 🤝 I’m looking for help with **my Java skills**
 - 📝 My articles can be found here: [📜](https://medium.com/@somadityasingh)
 - 💬 Ask me about **Computer Vision, Java Springboot, Web3, Front End, Finance, Economics & Anime**
