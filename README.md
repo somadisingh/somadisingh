@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somadisingh" alt="somadisingh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/macrodalal" target="blank"><img src="https://img.shields.io/twitter/follow/macrodalal?logo=twitter&style=for-the-badge" alt="macrodalal" /></a> </p>
-
 - 🔭 Currently I'm working on **my designing and programming skills🖥️**
 - 🌱 I have the potential to learn **anything & everything 🧑‍🎓**
 - 👯 I can collaborate with **developers from around the globe** 
