@@ -5,6 +5,7 @@
 <h3 align="center">Builder and Entrepreneur from New Delhi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somadisingh&label=profile%20views&color=f95353&style=flat" alt="somadisingh" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somadisingh&theme=onedark" alt="somadisingh" /></a> </p>
 
