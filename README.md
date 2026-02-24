@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somadisingh&label=profile%20views&color=f95353&style=flat" alt="somadisingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somadisingh" alt="somadisingh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somadisingh&theme=onedark" alt="somadisingh" /></a> </p>
 
 - 🔭 Currently I'm working on **my designing and programming skills🖥️**
 - 🌱 I have the potential to learn **anything & everything 🧑‍🎓**
