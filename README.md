@@ -8,16 +8,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somadisingh&theme=onedark" alt="somadisingh" /></a> </p>
 
-- 🔭 Currently I'm working on **my designing and programming skills🖥️**
-- 🌱 I have the potential to learn **anything & everything 🧑‍🎓**
-- 👯 I can collaborate with **developers from around the globe** 
-- 🎯 2026 Goal: Contribute to **learning machine learning and building machine learning projects and apps** 
-- 🤝 I’m looking for help with **my feature engineering skills**
+- 🔭 Currently I'm working on **integrating an aesthetic image ranking ML model into the open-source Immich project and diving deep into Randomized Algorithms 🖥️**
+- 🌱 I have the potential to learn anything & everything, but right now I am try to master **Object-Oriented Programming in Python and advanced DSA patterns 🧑‍🎓**
+- 👯 I can collaborate on **open-source platforms, MLOps pipelines, and scalable software engineering projects 🌍** 
+- 🎯 2026 Goal: **Deploy end-to-end ML features on platforms like Chameleon Cloud and land an impactful SWE internship** 
+- 🤝 I’m looking for help with **Transitioning my Java skills to Python 🐍 mastering tricky DSA patterns for interviews and wrapping my head around complex probability bounds**
 - 📝 My articles can be found here: [📜](https://medium.com/@somadityasingh)
-- 💬 Ask me about **Computer Vision, Java Springboot, Web3, Front End, Finance, Economics & Anime**
+- 💬 Ask me about **Java, Machine Learning Operations (MLOps), Probability, Algorithms, and Anime 🧠**
 - 📫 Wanna work together? Shoot me an [📧](somadisingh13@gmail.com)
-- 📄 Know about my experiences [📝](https://drive.google.com/file/d/1HRq57V-QIygDZ8MCTd1WEEJ8zKW7P--l/view?usp=sharing)
-- ⚡ Fun fact: **SWE is the combination of an architect and a builder. We are not just "programmers"**
+- 📄 Know about my experiences [📝](https://drive.google.com/file/d/1Fs3FZqVwiw9cLRoFa_mep4_rbCXWjH4v/view?usp=sharing)
+- ⚡ Fun fact: **I'm studying Randomized Algorithms, which is basically a mathematically rigorous way of letting the computer flip a coin and hoping for the best 🪙**
 
 
 <h3 align="left">Languages and Tools:</h3>
