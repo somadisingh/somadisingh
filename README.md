@@ -11,7 +11,7 @@
 </a>
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=somadisingh&theme=github-dark-dimmed&custom_title=Somaditya's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=somadisingh&theme=github-compact&custom_title=Somaditya's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 Currently I'm working on **integrating an aesthetic image ranking ML model into the open-source Immich project and diving deep into Randomized Algorithms 🖥️**
 - 🌱 I have the potential to learn anything & everything, but right now I am try to master **Object-Oriented Programming in Python and advanced DSA patterns 🧑‍🎓**
