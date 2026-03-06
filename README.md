@@ -4,7 +4,14 @@
 <h1 align="center">Hey 👋, I'm Somaditya</h1>
 <h3 align="center">Builder and Entrepreneur in New York City</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somadisingh&label=profile%20views&color=f95353&style=flat" alt="somadisingh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=somadisingh&label=profile%20views&color=f95353&style=flat" alt="somadisingh" /> </p>
+<p align ="center">
+<a href="https://www.linkedin.com/in/somadityasingh">
+  <img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+</p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=somadisingh&theme=github-dark-dimmed&custom_title=Somaditya's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 Currently I'm working on **integrating an aesthetic image ranking ML model into the open-source Immich project and diving deep into Randomized Algorithms 🖥️**
 - 🌱 I have the potential to learn anything & everything, but right now I am try to master **Object-Oriented Programming in Python and advanced DSA patterns 🧑‍🎓**
@@ -16,12 +23,6 @@
 - 📫 Wanna work together? Shoot me an [📧](somadisingh13@gmail.com)
 - 📄 Know about my experiences [📝](https://drive.google.com/file/d/1Fs3FZqVwiw9cLRoFa_mep4_rbCXWjH4v/view?usp=sharing)
 - ⚡ Fun fact: **I'm studying Randomized Algorithms, which is basically a mathematically rigorous way of letting the computer flip a coin and hoping for the best 🪙**
-
-<p>
-<a href="https://www.linkedin.com/in/somadisingh">
-  <img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-</p>
 
 
 <h3 align="left">If you open my toolkit here's what you'll find!</h3>
@@ -75,7 +76,5 @@
 <!-- Your activity will be automatically inserted here -->
 <!--END_SECTION:activity-->
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=somadisingh&theme=github-dark-dimmed&custom_title=Your%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Actions Status](https://github.com/somadisingh/somadisingh/workflows/wakatime-stats/badge.svg)](https://github.com/somadisingh/somadisingh/actions)
-[![Actions Status](https://github.com/somadisingh/somadisingh/workflows/update-gh-activity/badge.svg)](https://github.com/somadisingh/somadisingh/actions)
+<!-- [![Actions Status](https://github.com/somadisingh/somadisingh/workflows/wakatime-stats/badge.svg)](https://github.com/somadisingh/somadisingh/actions)
+[![Actions Status](https://github.com/somadisingh/somadisingh/workflows/update-gh-activity/badge.svg)](https://github.com/somadisingh/somadisingh/actions) -->
