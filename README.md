@@ -70,7 +70,7 @@
 <!-- Your simple stats will be automatically inserted here -->
 <!--END_SECTION:waka-simple-->
 
-**:zap: Recent Activity:**
+<!-- **:zap: Recent Activity:** -->
 
 <!--START_SECTION:activity-->
 <!-- Your activity will be automatically inserted here -->
