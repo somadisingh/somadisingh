@@ -55,10 +55,10 @@
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-START_SECTION:waka
+<!--START_SECTION:waka-->
 <!-- Your stats will be automatically inserted here -->
-END_SECTION:waka
+<!--END_SECTION:waka-->
 
-START_SECTION:waka-simple
+<!--START_SECTION:waka-simple-->
 <!-- Your simple stats will be automatically inserted here -->
-END_SECTION:waka-simple
+<!--END_SECTION:waka-simple-->
