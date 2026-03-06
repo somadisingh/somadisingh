@@ -17,6 +17,12 @@
 - 📄 Know about my experiences [📝](https://drive.google.com/file/d/1Fs3FZqVwiw9cLRoFa_mep4_rbCXWjH4v/view?usp=sharing)
 - ⚡ Fun fact: **I'm studying Randomized Algorithms, which is basically a mathematically rigorous way of letting the computer flip a coin and hoping for the best 🪙**
 
+<p>
+<a href="https://www.linkedin.com/in/somadisingh">
+  <img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+</p>
+
 
 <h3 align="left">If you open my toolkit here's what you'll find!</h3>
 <p>
@@ -62,3 +68,14 @@
 <!--START_SECTION:waka-simple-->
 <!-- Your simple stats will be automatically inserted here -->
 <!--END_SECTION:waka-simple-->
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+<!-- Your activity will be automatically inserted here -->
+<!--END_SECTION:activity-->
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=somadisingh&theme=github-dark-dimmed&custom_title=Your%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Actions Status](https://github.com/somadisingh/somadisingh/workflows/wakatime-stats/badge.svg)](https://github.com/somadisingh/somadisingh/actions)
+[![Actions Status](https://github.com/somadisingh/somadisingh/workflows/update-gh-activity/badge.svg)](https://github.com/somadisingh/somadisingh/actions)
