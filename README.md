@@ -24,6 +24,8 @@
 - 📄 Know about my experiences [📝](https://drive.google.com/file/d/1Fs3FZqVwiw9cLRoFa_mep4_rbCXWjH4v/view?usp=sharing)
 - ⚡ Fun fact: **I'm studying Randomized Algorithms, which is basically a mathematically rigorous way of letting the computer flip a coin and hoping for the best 🪙**
 
+![GitHub Contributions Widget](https://github-contributions-widget.oxwazz.com/somadisingh)
+
 
 <h3 align="left">If you open my toolkit here's what you'll find!</h3>
 
