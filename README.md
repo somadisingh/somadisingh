@@ -131,7 +131,47 @@
 </p> -->
 
 <!--START_SECTION:waka-->
-<!-- Your stats will be automatically inserted here -->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.61%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 31 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 37 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                16 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+🌆 Daytime                37 commits          █████████████░░░░░░░░░░░░   51.39 % 
+🌃 Evening                15 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Markdown                 30 mins             █████████████████████░░░░   84.01 % 
+YAML                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+
+🐱‍💻 Projects: 
+somadisingh              35 mins             █████████████████████████   98.34 % 
+ospsd-team-07            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+```
+
+
+ Last Updated on 07/03/2026 12:35:08 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
