@@ -141,7 +141,7 @@
 <!-- **:zap: Recent Activity:** -->
 
 <!--START_SECTION:activity-->
-<!-- Your activity will be automatically inserted here -->
+1. 🎉 Merged PR [#3](https://github.com/somadisingh/ospsd-team7-issue-tracker/pull/3) in [somadisingh/ospsd-team7-issue-tracker](https://github.com/somadisingh/ospsd-team7-issue-tracker)
 <!--END_SECTION:activity-->
 
 <!-- [![Actions Status](https://github.com/somadisingh/somadisingh/workflows/wakatime-stats/badge.svg)](https://github.com/somadisingh/somadisingh/actions)
