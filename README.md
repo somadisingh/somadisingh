@@ -198,7 +198,7 @@ YAML         5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!-- **:zap: Recent Activity:** -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/somadisingh/ospsd-team7-issue-tracker/pull/2) in [somadisingh/ospsd-team7-issue-tracker](https://github.com/somadisingh/ospsd-team7-issue-tracker)
+1. 💪 Opened PR [#3199](https://github.com/DIGI-UW/OpenELIS-Global-2/pull/3199) in [DIGI-UW/OpenELIS-Global-2](https://github.com/DIGI-UW/OpenELIS-Global-2)
 <!--END_SECTION:activity-->
 
 <!-- [![Actions Status](https://github.com/somadisingh/somadisingh/workflows/wakatime-stats/badge.svg)](https://github.com/somadisingh/somadisingh/actions)
