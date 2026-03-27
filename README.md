@@ -200,7 +200,7 @@ YAML         5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!-- **:zap: Recent Activity:** -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3199](https://github.com/DIGI-UW/OpenELIS-Global-2/pull/3199) in [DIGI-UW/OpenELIS-Global-2](https://github.com/DIGI-UW/OpenELIS-Global-2)
+1. 🗣 Commented on [#3165](https://github.com/DIGI-UW/OpenELIS-Global-2/issues/3165#issuecomment-4136415418) in [DIGI-UW/OpenELIS-Global-2](https://github.com/DIGI-UW/OpenELIS-Global-2)
 <!--END_SECTION:activity-->
 
 <!-- [![Actions Status](https://github.com/somadisingh/somadisingh/workflows/wakatime-stats/badge.svg)](https://github.com/somadisingh/somadisingh/actions)
