@@ -131,29 +131,29 @@
 </p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149.77%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203.59%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 100 Contributions in the Year 2026
+> 🏆 111 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                58 commits          █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-🌆 Daytime                107 commits         ██████████░░░░░░░░░░░░░░░   38.49 % 
-🌃 Evening                109 commits         ██████████░░░░░░░░░░░░░░░   39.21 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+🌞 Morning                60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+🌆 Daytime                113 commits         ██████████░░░░░░░░░░░░░░░   38.70 % 
+🌃 Evening                115 commits         ██████████░░░░░░░░░░░░░░░   39.38 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 
@@ -163,22 +163,22 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.53 % 
-Markdown                 3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Java                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Swift                    3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Markdown                 3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Python                   2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Java                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Bash                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 🐱‍💻 Projects: 
-serve-model-nvidia-only  3 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   33.69 % 
-ospsd-team-07            3 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.63 % 
-OpenELIS-Global-2        1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Folio                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-VisionClaw               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+serve-model-nvidia-only  3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Pixel-Glass              3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+VisionClaw               2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+ospsd-team-07            2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+OpenELIS-Global-2        1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 ```
 
 
- Last Updated on 28/03/2026 12:42:02 UTC
+ Last Updated on 29/03/2026 12:42:36 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
