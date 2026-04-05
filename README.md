@@ -201,7 +201,7 @@ Bash         55 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!-- **:zap: Recent Activity:** -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/somadisingh/model-serving-nvidia/pull/4) in [somadisingh/model-serving-nvidia](https://github.com/somadisingh/model-serving-nvidia)
+1. 🎉 Merged PR [#5](https://github.com/somadisingh/aesthetic-hub-serving/pull/5) in [somadisingh/aesthetic-hub-serving](https://github.com/somadisingh/aesthetic-hub-serving)
 <!--END_SECTION:activity-->
 
 <!-- [![Actions Status](https://github.com/somadisingh/somadisingh/workflows/wakatime-stats/badge.svg)](https://github.com/somadisingh/somadisingh/actions)
