@@ -133,13 +133,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.01%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.23%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 156 Contributions in the Year 2026
+> 🏆 177 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -150,10 +150,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                99 commits          █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-🌆 Daytime                247 commits         ████████████░░░░░░░░░░░░░   46.43 % 
-🌃 Evening                182 commits         █████████░░░░░░░░░░░░░░░░   34.21 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+🌞 Morning                107 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+🌆 Daytime                297 commits         ████████████░░░░░░░░░░░░░   49.09 % 
+🌃 Evening                196 commits         ████████░░░░░░░░░░░░░░░░░   32.40 % 
+🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 
@@ -163,20 +163,20 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 4 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.90 % 
-Python                   3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.98 % 
-YAML                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Docker                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Markdown                 5 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.33 % 
+Python                   5 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
+YAML                     1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Docker                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Protocol Buffer          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🐱‍💻 Projects: 
-serve-model-nvidia-only  7 hrs 2 mins        ███████████████████░░░░░░   76.20 % 
-Lec8                     2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-serve-system-lab         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+serve-model-nvidia-only  11 hrs 12 mins      █████████████████████░░░░   83.60 % 
+Lec8                     2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+serve-system-lab         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
- Last Updated on 05/04/2026 12:44:41 UTC
+ Last Updated on 06/04/2026 12:59:46 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
