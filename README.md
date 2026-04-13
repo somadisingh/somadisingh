@@ -131,15 +131,15 @@
 </p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2020%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 210 Contributions in the Year 2026
+> 🏆 216 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -150,10 +150,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                120 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-🌆 Daytime                308 commits         ████████████░░░░░░░░░░░░░   47.09 % 
-🌃 Evening                216 commits         ████████░░░░░░░░░░░░░░░░░   33.03 % 
-🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+🌞 Morning                129 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+🌆 Daytime                308 commits         ████████████░░░░░░░░░░░░░   46.74 % 
+🌃 Evening                216 commits         ████████░░░░░░░░░░░░░░░░░   32.78 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 
@@ -163,21 +163,22 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.49 % 
-Python                   1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Swift                    1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Protocol Buffer          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Swift                    3 hrs 12 mins       ███████████████░░░░░░░░░░   58.64 % 
+Markdown                 1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🐱‍💻 Projects: 
-serve-model-nvidia-only  5 hrs 24 mins       █████████████████░░░░░░░░   69.14 % 
-PseudoMeta               1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-VisionClaw               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-somadi-hecker            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+PseudoMeta               2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
+serve-model-nvidia-only  1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+NemoAssistant            1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+VisionClaw               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+somadi-hecker            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 ```
 
 
- Last Updated on 12/04/2026 12:50:54 UTC
+ Last Updated on 13/04/2026 13:14:36 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
