@@ -131,15 +131,15 @@
 </p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%208%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.85%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.86%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 268 Contributions in the Year 2026
+> 🏆 303 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -150,10 +150,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                168 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-🌆 Daytime                377 commits         ███████████░░░░░░░░░░░░░░   45.75 % 
-🌃 Evening                272 commits         ████████░░░░░░░░░░░░░░░░░   33.01 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+🌞 Morning                171 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+🌆 Daytime                402 commits         ███████████░░░░░░░░░░░░░░   45.02 % 
+🌃 Evening                313 commits         █████████░░░░░░░░░░░░░░░░   35.05 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 
@@ -163,22 +163,22 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-YAML                     4 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.65 % 
-Python                   4 hrs               ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-Text                     3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Text                     4 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.68 % 
+Python                   4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+YAML                     2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 🐱‍💻 Projects: 
-immich                   6 hrs 46 mins       ████████████░░░░░░░░░░░░░   47.81 % 
-aesthetic_hub            5 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
-ospsd-team-07            59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-terminals                34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-geo-nyc                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+aesthetic_hub            7 hrs 16 mins       █████████████░░░░░░░░░░░░   51.05 % 
+geo-nyc                  3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+terminals                1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+immich                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+ospsd-team-07            56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 ```
 
 
- Last Updated on 27/04/2026 13:31:07 UTC
+ Last Updated on 29/04/2026 13:49:35 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
