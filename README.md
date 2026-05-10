@@ -131,7 +131,7 @@
 </p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
@@ -139,21 +139,21 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 321 Contributions in the Year 2026
+> 🏆 329 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                184 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-🌆 Daytime                407 commits         ███████████░░░░░░░░░░░░░░   44.58 % 
-🌃 Evening                315 commits         █████████░░░░░░░░░░░░░░░░   34.50 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+🌞 Morning                186 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+🌆 Daytime                407 commits         ███████████░░░░░░░░░░░░░░   44.24 % 
+🌃 Evening                320 commits         █████████░░░░░░░░░░░░░░░░   34.78 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 
 
@@ -163,19 +163,19 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-Other                    1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-Text                     1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-YAML                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Markdown                 4 hrs 53 mins       ██████████████░░░░░░░░░░░   57.35 % 
+Other                    1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Text                     1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🐱‍💻 Projects: 
-aesthetic_hub            4 hrs 28 mins       █████████████████░░░░░░░░   68.94 % 
-ps4                      2 hrs               ████████░░░░░░░░░░░░░░░░░   31.06 % 
+ps4                      5 hrs 19 mins       ████████████████░░░░░░░░░   62.43 % 
+aesthetic_hub            3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.57 % 
 ```
 
 
- Last Updated on 08/05/2026 13:24:37 UTC
+ Last Updated on 10/05/2026 13:09:54 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
