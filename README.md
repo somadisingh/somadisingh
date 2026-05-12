@@ -180,7 +180,7 @@ aesthetic_hub            0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 06 March 2026 - To: 11 May 2026
+From: 06 March 2026 - To: 12 May 2026
 
 Total Time: 81 hrs 10 mins
 
