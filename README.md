@@ -131,13 +131,15 @@
 </p> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%204%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.90%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 358 Contributions in the Year 2026
+> 🏆 360 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -145,8 +147,30 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 23/05/2026 13:17:13 UTC
+```text
+🌞 Morning                212 commits         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+🌆 Daytime                437 commits         ███████████░░░░░░░░░░░░░░   44.32 % 
+🌃 Evening                330 commits         ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 24/05/2026 13:16:47 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
