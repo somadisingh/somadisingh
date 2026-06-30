@@ -183,7 +183,7 @@ assets                   1 min               ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 06 March 2026 - To: 29 June 2026
+From: 06 March 2026 - To: 30 June 2026
 
 Total Time: 89 hrs 25 mins
 
