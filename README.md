@@ -131,7 +131,7 @@
 </p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.33%20million%20lines%20of%20code-blue?style=flat)
 
@@ -139,7 +139,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 491 Contributions in the Year 2026
+> 🏆 493 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -150,10 +150,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                335 commits         ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-🌆 Daytime                663 commits         ████████████░░░░░░░░░░░░░   48.79 % 
-🌃 Evening                354 commits         ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+🌞 Morning                337 commits         ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+🌆 Daytime                663 commits         ████████████░░░░░░░░░░░░░   48.71 % 
+🌃 Evening                354 commits         ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 
@@ -163,20 +163,20 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   34.70 % 
-Other                    1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   32.07 % 
-HTML                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-SCSS                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+HTML                     39 mins             ███████████░░░░░░░░░░░░░░   42.13 % 
+SCSS                     33 mins             █████████░░░░░░░░░░░░░░░░   35.98 % 
+TypeScript               17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🐱‍💻 Projects: 
-Team-Fahhhhh             2 hrs 42 mins       ████████████████░░░░░░░░░   64.00 % 
-Superstars-WebApp        1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   35.83 % 
-superstars-web-frontend-10 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Superstars-WebApp        1 hr 31 mins        ████████████████████████░   96.53 % 
+Team-Fahhhhh             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+superstars-web-frontend-10 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 
- Last Updated on 04/07/2026 13:18:28 UTC
+ Last Updated on 05/07/2026 13:26:13 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
