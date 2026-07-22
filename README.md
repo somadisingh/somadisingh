@@ -1,5 +1,6 @@
 <p align = "center">
- <img src = "https://ksr-ugc.imgix.net/assets/001/035/917/16ece0d1796ecc1ff4c0605b0a7dd96a_original.gif?ixlib=rb-4.0.2&w=680&fit=max&v=1381431769&gif-q=50&q=92&s=1114f7941a0a556074ebaeb4bd277f8e"/>
+ <img width="2000" height="1125" alt="dfwtrdo-80c5b3ae-615f-4074-9f0e-c772659e4e79" src="https://github.com/user-attachments/assets/c0e0b1a7-c921-4d01-8daf-e1b1eba99ff6" />
+
 </p>
 <h1 align="center">Hey 👋, I'm Somaditya</h1>
 <h3 align="center">Builder and Entrepreneur in New York City</h3>
