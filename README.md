@@ -1,5 +1,5 @@
 <p align = "center">
- <img width="1000" height="1125" alt="dfwtrdo-80c5b3ae-615f-4074-9f0e-c772659e4e79" src="https://github.com/user-attachments/assets/c0e0b1a7-c921-4d01-8daf-e1b1eba99ff6" />
+ <img width="1000" height="555" alt="dfwtrdo-80c5b3ae-615f-4074-9f0e-c772659e4e79" src="https://github.com/user-attachments/assets/c0e0b1a7-c921-4d01-8daf-e1b1eba99ff6" />
 
 </p>
 <h1 align="center">Hey 👋, I'm Somaditya</h1>
