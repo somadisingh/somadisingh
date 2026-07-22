@@ -14,10 +14,10 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=somadisingh&theme=github-compact&custom_title=Somaditya's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 Currently I'm working on **integrating an aesthetic image ranking ML model into the open-source Immich project and diving deep into Randomized Algorithms 🖥️**
-- 🌱 I have the potential to learn anything & everything, but right now I am try to master **Object-Oriented Programming in Python and advanced DSA patterns 🧑‍🎓**
+- 🔭 Currently I'm working on **polishing my design skills and building the next gen video networking platform @Superstars 🖥️**
+- 🌱 I have the potential to learn anything & everything, but right now I am try to master **System Design!! 🧑‍🎓**
 - 👯 I can collaborate on **open-source platforms, MLOps pipelines, and scalable software engineering projects 🌍** 
-- 🎯 2026 Goal: **Deploy end-to-end ML features on platforms like Chameleon Cloud and land an impactful SWE internship** 
+- 🎯 2026 Goal: **Deploy end-to-end ML features on cloud platforms, land an impactful SWE role and start my own venture** 
 - 🤝 I’m looking for help with **Transitioning my Java skills to Python 🐍 mastering tricky DSA patterns for interviews and wrapping my head around complex probability bounds**
 - 📝 My articles can be found here: [📜](https://medium.com/@somadityasingh)
 - 💬 Ask me about **Java, Machine Learning Operations (MLOps), Probability, Algorithms, and Anime 🧠**
